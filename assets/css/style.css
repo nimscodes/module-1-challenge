@@ -1,3 +1,4 @@
+/********* General Section ********/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,17 @@
 body {
     background-color: #d9dcd6;
 }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/********* Header Section ********/
 
 header {
     padding: 20px;
@@ -41,14 +53,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
+/********* Hero Section ********/
 
 .hero {
     height: 800px;
@@ -59,15 +64,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+/********* Content / Article Section ********/
 
 article {
     width: 75%;
@@ -92,6 +89,18 @@ article section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/********* Benefits / Aside Section ********/
 
 aside {
     margin-right: 20px;
@@ -119,6 +128,8 @@ aside section img {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/********* Footer Section ********/
 
 footer {
     padding: 30px;
