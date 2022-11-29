@@ -8,3 +8,17 @@ The aim of this challenge is to refactor an existing site for a marketing agency
 ## Usage
 
 Click on the link below to access the website.
+[project website](https://nimscodes.github.io/project-refactor/)
+
+Below are the screenshots for the website page
+![Horiseon Top](assets/images/horiseon_top.png)
+![Horiseon Middle](assets/images/horiseon_middle.png)
+![Horiseon Bottom](assets/images/horiseon_bottom.png)
+
+## Credits
+
+N/A
+
+## License
+
+N/A
